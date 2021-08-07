@@ -1,5 +1,5 @@
 {
-  "name": "radix-simple-react",
+  "name": "radix-simple-react", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,3 +17,4 @@
     "eject": "react-scripts eject"
   }
 }
+ 
