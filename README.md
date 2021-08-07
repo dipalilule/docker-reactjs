@@ -1,6 +1,6 @@
 # Simple React  
 
-hello world
+This is react.js application
 Sample React.js application for the Docker environment.
 
 ## Getting Started
